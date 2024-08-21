@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# 
+# Start of session at: Tue Aug 13 09:55:00 2024
+# Process ID: 29203
+# Current directory: /home/muqdas_satti/Desktop/SOC/vivado_projec/tpg_vdma_480p/tpg_vdma.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /home/muqdas_satti/Desktop/SOC/vivado_projec/tpg_vdma_480p/tpg_vdma.sdk/webtalk/webtalk.log
+# Journal file: /home/muqdas_satti/Desktop/SOC/vivado_projec/tpg_vdma_480p/tpg_vdma.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
