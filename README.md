@@ -1,5 +1,4 @@
 
-This project demonstrates a basic video processing pipeline using Xilinx Vivado, featuring the following components:
 # Video Processing Project using Vivado
 
 ## Overview
